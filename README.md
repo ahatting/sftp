@@ -1,5 +1,7 @@
 # Update 23-06-2020
-Removed automatic key rotation
+Removed automatic key rotation and created public docker package
+
+docker pull docker.pkg.github.com/ahatting/sftp/sftp:latest
 
 
 # SFTP
